@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 # Pinned Repositories
 <p align="center">
 <a href="https://github.com/Nike1421/Decentralized-Ride-Hailing-System-using-Blockchain">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Nike1421&repo=Decentralized-Ride-Hailing-System-using-Blockchain&border_color=02D892&bg_color=2d826d&title_color=C9D1D9&text_color=8B949E&icon_color=c3ff00" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Nike1421&repo=Decentralized-Ride-Hailing-System-using-Blockchain&border_color=c3ff00&bg_color=2d826d&title_color=c3ff00&text_color=C9D1D9&icon_color=c3ff00" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/Nike1421/Java-Session-Codes">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Nike1421&repo=Java-Session-Codes&border_color=02D892&bg_color=2d826d&title_color=C9D1D9&text_color=8B949E&icon_color=c3ff00" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Nike1421&repo=Java-Session-Codes&border_color=c3ffoo&bg_color=2d826d&title_color=c3ff00&text_color=C9D1D9&icon_color=c3ff00" />
 </a>
 </p>
 
