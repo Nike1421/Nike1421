@@ -74,6 +74,8 @@ Here are some ideas to get you started:
 
 <br/>
 
+## Reach Me 🔗
+<br/>
 <div align="center">
     <a href="omnaik54@gmail.com"><img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/gmail.png" alt="gmail" width="45" height="45" />&nbsp;</a>
     <!-- <a href=""><img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/discord.png" alt="discord" width="45" height="45" />&nbsp;</a> -->
