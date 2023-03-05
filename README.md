@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <!-- ### Proficient -->
 
-<svg fill="none" viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 1000 600" width="1000" height="600" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
