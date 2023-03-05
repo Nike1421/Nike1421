@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
 		<style>
-            .logo {
+            img {
                 color: white;
                 filter: drop-shadow(0px 0px 0.4px white);
             }
