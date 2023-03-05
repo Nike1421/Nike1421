@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2>Hey there 👋, I'm  <font style="color:red">Om Naik</font></h2>
 
 <!--
 **Nike1421/Nike1421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
