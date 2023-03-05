@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages and Tools 🛠️
 
 <br/>
 
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-## Reach Me 🔗
+## 🔗 Reach Me 🔗
 <br/>
 <div align="center">
     <!-- <a href="omnaik54@gmail.com"><img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/gmail.png" alt="gmail" width="45" height="45" />&nbsp;</a> -->
