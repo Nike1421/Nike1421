@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    <a href="">
+    <a>
         <img width='60.25%' align="center"src="https://github-readme-stats.vercel.app/api?username=Nike1421&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
     </a>
     <span>&nbsp;</span>
-    <a href="">
+    <a>
         <img width='37.25%' align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nike1421&count_private=true&theme=tokyonight&langs_count=3" />
     </a>
 </p>
@@ -58,7 +58,8 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="45" height="45" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="45" height="45" />&nbsp;
     <img src="https://github.com/Nike1421/Nike1421/blob/main/res/tools-and-framework-icons/jersey.png" alt="jersey" width="45" height="45" />&nbsp;
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="" width="45" height="45" />&nbsp; -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45" />&nbsp;
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="" width="45" height="45" />&nbsp; -->
 </div>
 <br/>
 <div align="center">
