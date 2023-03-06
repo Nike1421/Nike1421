@@ -26,8 +26,8 @@ Here are some ideas to get you started:
         <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Nike1421&repo=Decentralized-Ride-Hailing-System-using-Blockchain&border_color=2D826D&bg_color=0D1117&title_color=6CD3BF&text_color=C9D1D9&icon_color=6CD3BF" />
     </a>
     <span>&nbsp;</span>
-    <a href="https://github.com/Nike1421/Java-Session-Codes">
-        <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Nike1421&repo=Java-Session-Codes&border_color=2D826D&bg_color=0D1117&title_color=6CD3BF&text_color=C9D1D9&icon_color=6CD3BF" />
+    <a href="https://github.com/Nike1421/Unreserved-Ticketing-System">
+        <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Nike1421&repo=Unreserved-Ticketing-System&border_color=2D826D&bg_color=0D1117&title_color=6CD3BF&text_color=C9D1D9&icon_color=6CD3BF" />
     </a>
 </p>
 
