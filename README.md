@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <a>
         <img width='60.25%' align="center"src="https://github-readme-stats.vercel.app/api?username=Nike1421&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
     </a>
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     <a>
         <img width='37.25%' align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nike1421&count_private=true&theme=tokyonight&langs_count=3" />
     </a>
-</p>
+</p> -->
 
 ## 🛠️ Languages and Tools 🛠️
 
