@@ -31,15 +31,26 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-<!-- <p align="center">
+<p align="center">
     <a>
-        <img width='60.25%' align="center"src="https://github-readme-stats.vercel.app/api?username=Nike1421&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+        <img align="center"src="https://github-readme-stats.vercel.app/api?username=Nike1421&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height="278"/>
     </a>
     <span>&nbsp;</span>
     <a>
-        <img width='37.25%' align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nike1421&count_private=true&theme=tokyonight&langs_count=3" />
+        <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nike1421&count_private=true&theme=tokyonight&langs_count=3" height="278" />
     </a>
-</p> -->
+</p>
+
+<!-- <p align="center">
+  <a href="https://github.com/dishantzaveri/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=dishantzaveri&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444" height="165">
+  </a>
+  <a href="https://github.com/dishantzaveri/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantzaveri&layout=compact&bg_color=0d1117&text_color=40cfcd&border_color=444"  height="165">
+  </a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dishantzaveri&column=6&theme=onedark" align="center"/>
+</div> -->
 
 ## 🛠️ Languages and Tools 🛠️
 
