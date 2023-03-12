@@ -41,16 +41,6 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-<!-- <p align="center">
-  <a href="https://github.com/dishantzaveri/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dishantzaveri&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444" height="165">
-  </a>
-  <a href="https://github.com/dishantzaveri/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantzaveri&layout=compact&bg_color=0d1117&text_color=40cfcd&border_color=444"  height="165">
-  </a>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dishantzaveri&column=6&theme=onedark" align="center"/>
-</div> -->
 
 ## 🛠️ Languages and Tools 🛠️
 
@@ -89,10 +79,6 @@ Here are some ideas to get you started:
 ## 🔗 Reach Me 🔗
 <br/>
 <div align="center">
-    <!-- <a href="omnaik54@gmail.com"><img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/gmail.png" alt="gmail" width="45" height="45" />&nbsp;</a> -->
-    <!-- <a href=""><img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/discord.png" alt="discord" width="45" height="45" />&nbsp;</a> -->
     <a href="https://www.linkedin.com/in/omnaik54/"><img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/linkedin.png" alt="linkedin" width="45" height="45" />&nbsp;</a>
-    <a href="https://github.com/Nike1421"><img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/github.png" alt="github" width="45" height="45" />&nbsp;</a>
-    <!-- <a href=""><img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/gmail.png" alt="gmail" width="45" height="45" />&nbsp;</a> -->
-    
+    <a href="https://github.com/Nike1421"><img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/github.png" alt="github" width="45" height="45" />&nbsp;</a>    
 </div>
