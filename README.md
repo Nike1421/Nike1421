@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## ⚠️Work in Progress!⚠️
 
-<!-- <p align="center">
+<p align="center">
     <a href="https://github.com/Nike1421/Decentralized-Ride-Hailing-System-using-Blockchain">
         <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Nike1421&repo=Decentralized-Ride-Hailing-System-using-Blockchain&border_color=2D826D&bg_color=0D1117&title_color=6CD3BF&text_color=C9D1D9&icon_color=6CD3BF" />
     </a>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     <a>
         <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nike1421&count_private=true&theme=tokyonight&langs_count=3" height="200" />
     </a>
-</p> -->
+</p>
 
 
 ## 🛠️ Languages and Tools 🛠️
