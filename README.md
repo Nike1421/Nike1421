@@ -85,3 +85,8 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/omnaik54/"><img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/linkedin.png" alt="linkedin" width="45" height="45" />&nbsp;</a>
     <a href="https://github.com/Nike1421"><img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/github.png" alt="github" width="45" height="45" />&nbsp;</a>    
 </div>
+
+
+<div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nike1421&label=Profile%20views&color=0e75b6&style=flat" alt="lingaraj281" /> </p>
+</div>
