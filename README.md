@@ -36,12 +36,12 @@ Here are some ideas to get you started:
 
 ## 🛠️ Languages and Tools 🛠️
 
-<br/>
+<!-- <br/>
 <p align="center">
     <a>
         <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nike1421&count_private=true&theme=transparent&langs_count=5&card_width=400&custom_title=I Love To Code In..."/>
     </a>
-</p>
+</p> -->
 
 <br/>
 
