@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!-- ## Pinned Repositories -->
 
-## ⚠️Work in Progress!⚠️
+<!-- ## ⚠️Work in Progress!⚠️
 
 <p align="center">
     <a href="https://github.com/Nike1421/Decentralized-Ride-Hailing-System-using-Blockchain">
@@ -32,18 +32,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/Nike1421/Unreserved-Ticketing-System">
         <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Nike1421&repo=Unreserved-Ticketing-System&border_color=2D826D&bg_color=0D1117&title_color=6CD3BF&text_color=C9D1D9&icon_color=6CD3BF" />
     </a>
-</p>
-
-<p align="center">
-    <a>
-        <img align="center"src="https://github-readme-stats.vercel.app/api?username=Nike1421&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height="200"/>
-    </a>
-    <span>&nbsp;</span>
-    <a>
-        <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nike1421&count_private=true&theme=tokyonight&langs_count=3" height="200" />
-    </a>
-</p>
-
+</p> -->
 
 ## 🛠️ Languages and Tools 🛠️
 
@@ -84,9 +73,4 @@ Here are some ideas to get you started:
 <div align="center">
     <a href="https://www.linkedin.com/in/omnaik54/"><img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/linkedin.png" alt="linkedin" width="45" height="45" />&nbsp;</a>
     <a href="https://github.com/Nike1421"><img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/github.png" alt="github" width="45" height="45" />&nbsp;</a>    
-</div>
-
-
-<div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nike1421&label=Profile%20views&color=0e75b6&style=flat" alt="lingaraj281" /> </p>
 </div>
