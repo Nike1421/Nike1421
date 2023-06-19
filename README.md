@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 
-<br/>
+<!-- <br/> -->
 <br/>
 
 <!-- ## Pinned Repositories -->
@@ -37,10 +37,16 @@ Here are some ideas to get you started:
 ## 🛠️ Languages and Tools 🛠️
 
 <br/>
+<p align="center">
+    <a>
+        <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nike1421&count_private=true&theme=transparent&langs_count=5&card_width=400&custom_title=I Love To Code In..."/>
+    </a>
+</p>
+
+<br/>
 
 <div align="center">
     <h2 align="center">Programming Languages and Frameworks</h2>
-    <br/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45" title="C"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" title="Python" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45" title="Jupyter Notebooks"/>&nbsp;
@@ -69,7 +75,6 @@ Here are some ideas to get you started:
 <br/>
 
 ## 🔗 Reach Me 🔗
-<br/>
 <div align="center">
     <a href="https://www.linkedin.com/in/omnaik54/"><img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/linkedin.png" alt="linkedin" width="45" height="45" />&nbsp;</a>
     <a href="https://github.com/Nike1421"><img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/github.png" alt="github" width="45" height="45" />&nbsp;</a>    
