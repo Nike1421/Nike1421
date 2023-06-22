@@ -74,8 +74,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-## 🔗 Reach Me 🔗
+## 🔗 Reach Me At... 🔗
 <div align="center">
     <a href="https://www.linkedin.com/in/omnaik54/"><img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/linkedin.png" alt="linkedin" width="45" height="45" />&nbsp;</a>
     <a href="https://github.com/Nike1421"><img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/github.png" alt="github" width="45" height="45" />&nbsp;</a>    
+    <a href="mailto:omnaik54@gmail.com"><img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/gmail.png" alt="personalmail" width="45" height="45" />&nbsp;</a>
 </div>
