@@ -1,8 +1,11 @@
-# Hey there 👋, I'm  Om Naik!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF" alt="header"/> 
 
-
-
-
+<a href="https://git.io/typing-svg">
+    <img 
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&width=435&height=40&lines=Hey+there%2C+it's+Om+Naik+%5Co%2F;Welcome+to+my+GitHub+Page!;I+develop+software+%3AD"
+        alt="Typing SVG"
+    />
+</a>
 
 <!-- Boilerplate Ignore
 **Nike1421/Nike1421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <!-- <br/> -->
-<br/>
+
 
 <!-- ## Pinned Repositories -->
 
