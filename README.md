@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0072c9" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
     <img 
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&width=435&height=40&lines=Hey+there%2C+it's+Om+Naik+%5Co%2F;Welcome+to+my+GitHub+Page!;I+develop+software+%3AD"
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0072c9&width=435&height=40&lines=Hey+there%2C+it's+Om+Naik+%5Co%2F;Welcome+to+my+GitHub+Page!;I+develop+software+%3AD"
         alt="Typing SVG"
     />
 </a>
