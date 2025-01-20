@@ -102,6 +102,9 @@ I’m a software developer driven by a love for solving problems! With a strong 
 
 ### Employer? Click <a target="_blank" href="https://drive.google.com/file/d/1qAxPzk59PCd7AGkMa4ODJjBwolJ946xw/view?usp=sharing">here</a> to download or view my resume!
 
+<br/>
+
+
 ### 🏢 Work Experience 🏢
 
 <div>
@@ -133,7 +136,7 @@ I’m a software developer driven by a love for solving problems! With a strong 
 </div>
 <div>
     <h4>
-        <img src="./res/social-media-icons/Oracle.png" alt="oracle" width="20" height="15" title="UCI"/>
+        <img src="./res/social-media-icons/Oracle.png" alt="oracle" width="20" height="15" title="Oracle"/>
         Oracle Corporation - Software Engineering Intern (June 2022 - July 2022)
     </h4>
     <p>
@@ -142,6 +145,7 @@ I’m a software developer driven by a love for solving problems! With a strong 
 </div>
 <div>
     <h4>
+        <img src="./res/social-media-icons/IllusTech.png" alt="illustech" width="20" height="15" title="IllusTech"/>
         IllusTech Infoway Pvt. Ltd. - Backend Developer Intern (June 2021 - August 2021)
     </h4>
     <p>
