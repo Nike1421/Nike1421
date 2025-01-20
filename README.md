@@ -101,3 +101,46 @@ I’m a software developer driven by a love for solving problems! With a strong 
 </div>
 
 ### Employer? Click <a target="_blank" href="https://drive.google.com/file/d/1qAxPzk59PCd7AGkMa4ODJjBwolJ946xw/view?usp=sharing">here</a> to download or view my resume!
+
+### 🏢 Work Experience 🏢
+
+<div>
+    <h4>
+        Viasat Inc. - Systems Engineering Intern (June 2024 - December 2024)
+    </h4>
+    <p>
+        Worked as Systems Engineering Intern at Viasat Inc. where I designed a reliable solution for management of telecommunication satellite configurations, and performed deployment and testing of message streaming systems on AWS Cloud.
+    </p>
+</div>
+<div>
+    <h4>
+        SAP SE - Student Developer (January 2024 - June 2024)
+    </h4>
+    <p>
+        Worked part-time as a Student Developer at SAP Newport Beach, where I developed a R-CNN based Object Detection Model for retail brand and product detection to aid in Retail Promotions Trade Claims Management.
+    </p>
+</div>
+<div>
+    <h4>
+        UC Irvine - Data and Technology Fellow (December 2023 - June 2024)
+    </h4>
+    <p>
+        Worked part-time as a Data and Technology Fellow at the Office of Data and Information Technology where exposure to cutting-edge technology like LLMs and Mixed Reality culminated in the development of a IT Help Chatbot for resolution of ODIT Employee help queries and an application for the Apple Vision Pro.
+    </p>
+</div>
+<div>
+    <h4>
+        Oracle Corporation - Software Engineering Intern (June 2022 - July 2022)
+    </h4>
+    <p>
+        Worked as Software Engineering Intern at Oracle India where I aided in the modernizing of legacy banking-related APIs for Oracle's Flexcube banking software as well as developed a Code Generator Software for efficient generation of REST APIs.
+    </p>
+</div>
+<div>
+    <h4>
+        IllusTech Infoway Pvt. Ltd. - Backend Developer Intern (June 2021 - August 2021)
+    </h4>
+    <p>
+        Worked as Backend Developer Intern at IllusTech India where I was tasked with the development of the complete backend of a property dealers website as well as IllusTech's own company website.
+    </p>
+</div>
