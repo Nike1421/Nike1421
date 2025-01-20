@@ -100,4 +100,4 @@ I’m a software developer driven by a love for solving problems! With a strong 
     <a style="margin: 3px;" href="mailto:naiko@uci.edu"><img src="./res/social-media-icons/UCI.png" alt="universitymail" width="45" height="45" />&nbsp;</a>
 </div>
 
-### Employer? Click <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>here</a> to download or view my resume!
+### Employer? Click <a href="https://drive.google.com/file/d/1qAxPzk59PCd7AGkMa4ODJjBwolJ946xw/view?usp=sharing" download>here</a> to download or view my resume!
