@@ -106,6 +106,7 @@ I’m a software developer driven by a love for solving problems! With a strong 
 
 <div>
     <h4>
+        <img src="./res/social-media-icons/Viasat.png" alt="viasat" width="20" height="15" title="Viasat"/>
         Viasat Inc. - Systems Engineering Intern (June 2024 - December 2024)
     </h4>
     <p>
@@ -114,6 +115,7 @@ I’m a software developer driven by a love for solving problems! With a strong 
 </div>
 <div>
     <h4>
+        <img src="./res/social-media-icons/SAP.png" alt="sap" width="30" height="15" title="SAP"/>
         SAP SE - Student Developer (January 2024 - June 2024)
     </h4>
     <p>
@@ -122,6 +124,7 @@ I’m a software developer driven by a love for solving problems! With a strong 
 </div>
 <div>
     <h4>
+        <img src="./res/social-media-icons/UCI.png" alt="uci" width="15" height="15" title="UCI"/>
         UC Irvine - Data and Technology Fellow (December 2023 - June 2024)
     </h4>
     <p>
@@ -130,6 +133,7 @@ I’m a software developer driven by a love for solving problems! With a strong 
 </div>
 <div>
     <h4>
+        <img src="./res/social-media-icons/Oracle.png" alt="oracle" width="20" height="15" title="UCI"/>
         Oracle Corporation - Software Engineering Intern (June 2022 - July 2022)
     </h4>
     <p>
