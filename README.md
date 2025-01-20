@@ -37,6 +37,9 @@ Here are some ideas to get you started:
     </a>
 </p> -->
 
+### Who am I?
+I’m a software developer driven by a love for solving problems! With a strong foundation in Software Engineering principles, I specialize in backend web development with medium-level expertise in frontend development. I am proficient in Python and Java, and currently I am learning Android Development in Kotlin. My mission is to contribute to cutting-edge software development and tackle real-world challenges that make a meaningful difference.
+
 ## 🛠️ Languages and Tools 🛠️
 
 <!-- <br/>
@@ -48,8 +51,8 @@ Here are some ideas to get you started:
 
 <br/>
 
-<div align="center">
-    <h2 align="center">Programming Languages and Frameworks</h2>
+<div>
+    <!-- <h2 align="center">Programming Languages and Frameworks</h2> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45" title="C"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" title="Python" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45" title="Jupyter Notebooks"/>&nbsp;
@@ -62,12 +65,9 @@ Here are some ideas to get you started:
     <img src="https://github.com/Nike1421/Nike1421/blob/main/res/tools-and-framework-icons/jersey.png" alt="jersey" width="45" height="45" title="Eclipse Jersey"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45" title="Flutter"/>&nbsp;
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="" width="45" height="45" />&nbsp; -->
-</div>
-<br/>
-<div align="center">
-    <h2 align="center">Tools</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="45" height="45" title="Android Studio"/>&nbsp;
-    <img src="https://github.com/Nike1421/Nike1421/blob/main/res/tools-and-framework-icons/eclipse.png" alt="eclipse" width="45" height="45" title="Apache Eclipse"/>&nbsp;
+    <!-- <img src="https://github.com/Nike1421/Nike1421/blob/main/res/tools-and-framework-icons/eclipse.png" alt="eclipse" width="45" height="45" title="Apache Eclipse"/>&nbsp; -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="eclipse" width="45" height="45" title="Apache Eclipse"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" title="VS Code"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45" title="Git"/>&nbsp;
     <img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/github.png" alt="github" width="45" height="45" title="GitHub"/>&nbsp;
@@ -80,6 +80,6 @@ Here are some ideas to get you started:
 ## 🔗 Reach Me At... 🔗
 <div align="center">
     <a href="https://www.linkedin.com/in/omnaik54/"><img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/linkedin.png" alt="linkedin" width="45" height="45" />&nbsp;</a>
-    <a href="https://github.com/Nike1421"><img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/github.png" alt="github" width="45" height="45" />&nbsp;</a>    
+    <a href="https://github.com/Nike1421"><img src="../Nike1421/res/social-media-icons/github.png" alt="github" width="45" height="45" />&nbsp;</a>    
     <a href="mailto:omnaik54@gmail.com"><img src="https://github.com/Nike1421/Nike1421/blob/main/res/social-media-icons/gmail.png" alt="personalmail" width="45" height="45" />&nbsp;</a>
 </div>
